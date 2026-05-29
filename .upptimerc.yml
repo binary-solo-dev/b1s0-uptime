@@ -10,7 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: dietistenpraktijk-salus.nl
-  # baseUrl: /your-repo-name
+  baseUrl: /b1s0-uptime
   logoUrl: https://dietistenpraktijk-salus.nl/assets/img/logos/salus-logo_bg-transparant-pwoJklk.png
   name: Salus
   introTitle: Salus
