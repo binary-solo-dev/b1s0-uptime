@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.dietistenpraktijk-salus.nl",
-    "icon": "https://icons.duckduckgo.com/ip3/www.dietistenpraktijk-salus.nl.ico",
-    "slug": "google",
+    "name": "Salus",
+    "url": "https://dietistenpraktijk-salus.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/dietistenpraktijk-salus.nl.ico",
+    "slug": "salus",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 845,
-    "timeDay": 845,
-    "timeWeek": 845,
-    "timeMonth": 845,
-    "timeYear": 845,
+    "time": 851,
+    "timeDay": 851,
+    "timeWeek": 851,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {}
   }
 ]
