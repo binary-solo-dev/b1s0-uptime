@@ -8,6 +8,8 @@ sites:
     url: https://dietistenpraktijk-salus.nl/definitely-does-not-exist-xyz
   - name: Telegram test2
     url: https://dietistenpraktijk-salus.nl/definitely-does-not-exist-xyz-abc
+  - name: Telegram test3
+    url: https://dietistenpraktijk-salus.nl/definitely-does-not-exist-xyz-def
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
