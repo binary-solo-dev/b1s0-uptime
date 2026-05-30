@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 739,
-    "timeWeek": 739,
-    "timeMonth": 739,
-    "timeYear": 739,
+    "time": 748,
+    "timeDay": 748,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,33 @@
     "uptimeWeek": "0.15%",
     "uptimeMonth": "0.15%",
     "uptimeYear": "0.15%",
-    "time": 376,
-    "timeDay": 376,
-    "timeWeek": 376,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2026-05-30": 142
+      "2026-05-30": 144
+    }
+  },
+  {
+    "name": "Telegram test2",
+    "url": "https://dietistenpraktijk-salus.nl/definitely-does-not-exist-xyz-abc",
+    "icon": "https://icons.duckduckgo.com/ip3/dietistenpraktijk-salus.nl.ico",
+    "slug": "telegram-test2",
+    "status": "down",
+    "uptime": "77.36%",
+    "uptimeDay": "77.36%",
+    "uptimeWeek": "77.36%",
+    "uptimeMonth": "77.36%",
+    "uptimeYear": "77.36%",
+    "time": 455,
+    "timeDay": 455,
+    "timeWeek": 455,
+    "timeMonth": 455,
+    "timeYear": 455,
+    "dailyMinutesDown": {
+      "2026-05-30": 0
     }
   }
 ]
