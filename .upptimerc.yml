@@ -21,10 +21,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-notifications:
-  - type: telegram
-    botKey: ${{ secrets.NOTIFICATION_TELEGRAM_BOT_TOKEN }}
-    chatId: ${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
