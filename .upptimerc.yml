@@ -25,7 +25,7 @@ status-website:
 
 notifications:
   - type: telegram
-    botKey: "$NOTIFICATION_TELEGRAM_BOT_TOKEN"
-    chatId: "$NOTIFICATION_TELEGRAM_CHAT_ID"
+    botKey: ${{ secrets.NOTIFICATION_TELEGRAM_BOT_TOKEN }}
+    chatId: ${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
