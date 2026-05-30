@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 759,
-    "timeWeek": 759,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "time": 756,
+    "timeDay": 756,
+    "timeWeek": 756,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dietistenpraktijk-salus.nl.ico",
     "slug": "telegram-test",
     "status": "down",
-    "uptime": "1.74%",
-    "uptimeDay": "1.74%",
-    "uptimeWeek": "1.74%",
-    "uptimeMonth": "1.74%",
-    "uptimeYear": "1.74%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "uptime": "0.41%",
+    "uptimeDay": "0.41%",
+    "uptimeWeek": "0.41%",
+    "uptimeMonth": "0.41%",
+    "uptimeYear": "0.41%",
+    "time": 388,
+    "timeDay": 388,
+    "timeWeek": 388,
+    "timeMonth": 388,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2026-05-30": 12
+      "2026-05-30": 50
     }
   }
 ]
