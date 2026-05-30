@@ -6,6 +6,8 @@ sites:
     url: https://dietistenpraktijk-salus.nl
   - name: Telegram test
     url: https://dietistenpraktijk-salus.nl/definitely-does-not-exist-xyz
+  - name: Telegram test2
+    url: https://dietistenpraktijk-salus.nl/definitely-does-not-exist-xyz-abc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
