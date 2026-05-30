@@ -5,6 +5,8 @@ repo: b1s0-uptime # The name of this repository
 sites:
   - name: Salus
     url: https://dietistenpraktijk-salus.nl
+  - name: Telegram test
+    url: https://dietistenpraktijk-salus.nl/definitely-does-not-exist-xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,5 +23,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+notifications:
+  - type: telegram
+    botKey: "NOTIFICATION_TELEGRAM_BOT_TOKEN"
+    chatId: "NOTIFICATION_TELEGRAM_CHAT_ID"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
