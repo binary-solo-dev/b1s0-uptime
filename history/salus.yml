@@ -1,7 +1,7 @@
 url: https://dietistenpraktijk-salus.nl
-status: up
-code: 200
-responseTime: 675
-lastUpdated: 2026-05-31T23:57:43.524Z
+status: down
+code: 500
+responseTime: 492
+lastUpdated: 2026-06-01T06:58:39.136Z
 startTime: 2026-05-29T17:31:11.246Z
 generator: Upptime <https://github.com/upptime/upptime>
