@@ -4,17 +4,17 @@
     "url": "https://dietistenpraktijk-salus.nl",
     "icon": "https://icons.duckduckgo.com/ip3/dietistenpraktijk-salus.nl.ico",
     "slug": "salus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 675,
-    "timeWeek": 766,
-    "timeMonth": 766,
-    "timeYear": 766,
+    "time": 750,
+    "timeDay": 584,
+    "timeWeek": 750,
+    "timeMonth": 750,
+    "timeYear": 750,
     "dailyMinutesDown": {}
   }
 ]
