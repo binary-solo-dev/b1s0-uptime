@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dietistenpraktijk-salus.nl.ico",
     "slug": "salus",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
-    "time": 738,
-    "timeDay": 491,
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
+    "time": 740,
+    "timeDay": 837,
     "timeWeek": 638,
-    "timeMonth": 738,
-    "timeYear": 738,
+    "timeMonth": 740,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2026-06-01": 687
     }
